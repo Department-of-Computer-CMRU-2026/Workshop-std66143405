@@ -74,7 +74,7 @@
             <!-- Login Button Area -->
             <div class="relative mt-4">
                 <button type="submit" class="w-full navy-btn text-white py-4 rounded-2xl font-bold text-xl tracking-widest uppercase shadow-xl transition-all">
-                    REGISTER
+                    REGISTERR
                 </button>
             </div>
         </form>
